@@ -51,7 +51,7 @@ The dashboard was built in **Power BI** to help managers monitor KPIs and make d
 
 ## 📬 Contact
 If you have any questions or feedback:  
-**Prasanjeet Barik** – [LinkedIn](www.linkedin.com/in/prasanjeet-barik-b19334228) | [Email](mailto:prasanjeetbarik2019@gift.edu.in)
+**Prasanjeet Barik** – [LinkedIn](https://www.linkedin.com/in/prasanjeet-barik-b19334228) | [Email](prasanjeetbarik2019@gift.edu.in)
 
 ---
 
@@ -59,8 +59,4 @@ If you have any questions or feedback:
 
 
 
-## 📬 Contact
-If you have any questions or feedback:  
-**Prasanjeet Barik** – [LinkedIn](https://www.linkedin.com/in/YOUR-LINK) | [Email](mailto:your-email@example.com)
 
----
